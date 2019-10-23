@@ -6,4 +6,4 @@
 3. [How to read Deep Learning Papers](https://blog.usejournal.com/advice-on-building-a-machine-learning-career-and-reading-research-papers-by-prof-andrew-ng-f90ac99a0182)
 
 ## Other phD's Repo
-1. [link](https://github.com/smilli/research-advice)
+1. [Smitha Milli, Berkeley phD](https://github.com/smilli/research-advice)

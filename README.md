@@ -10,3 +10,4 @@
 
 ## Other phD's Repo
 1. [Smitha Milli, Berkeley phD](https://github.com/smilli/research-advice)
+2. [Yen-Chen Lin, MIT phD](https://github.com/yenchenlin/research-advice)

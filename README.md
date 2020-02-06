@@ -7,6 +7,7 @@
 4. [PhD Study Survival Guide](https://www.ci.i.u-tokyo.ac.jp/~hachisuka/survival.pdf)
 5. [Life After phD](https://link.zhihu.com/?target=http%3A//people.csail.mit.edu/fredo/LifeAfterPhD.pdf)
 6. [Advice on Applying to CS PhD](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
+7. [Advice from H.T. Kung, Harvard Professor](http://www.eecs.harvard.edu/htk/phdadvice/)
 
 ## Other phD's Repo
 1. [Smitha Milli, Berkeley phD](https://github.com/smilli/research-advice)

@@ -15,3 +15,6 @@
 ## Other phD's Repo
 1. [Smitha Milli, Berkeley phD](https://github.com/smilli/research-advice)
 2. [Yen-Chen Lin, MIT phD](https://github.com/yenchenlin/research-advice)
+
+## Mental Healthy
+1. [天下雜誌過來人心得分享](https://www.cw.com.tw/article/articleLogin.action?id=5099338#_=_)

@@ -9,6 +9,9 @@
 6. [Advice on Applying to CS PhD](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 7. [Advice from H.T. Kung, Harvard Professor](http://www.eecs.harvard.edu/htk/phdadvice/)
 
+## Paper Writing Advice & Resource
+1. [NTHU Paper Writing Resources Collection](http://language.site.nthu.edu.tw/p/412-1212-15893.php?Lang=zh-tw)
+
 ## Other phD's Repo
 1. [Smitha Milli, Berkeley phD](https://github.com/smilli/research-advice)
 2. [Yen-Chen Lin, MIT phD](https://github.com/yenchenlin/research-advice)

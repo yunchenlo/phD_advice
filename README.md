@@ -17,4 +17,4 @@
 2. [Yen-Chen Lin, MIT phD](https://github.com/yenchenlin/research-advice)
 
 ## Mental Healthy
-1. [天下雜誌過來人心得分享](https://www.cw.com.tw/article/articleLogin.action?id=5099338#_=_)
+1. [(天下雜誌)該不該去海外遊學？過來人三點建議](https://www.cw.com.tw/article/articleLogin.action?id=5099338#_=_)

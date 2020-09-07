@@ -8,7 +8,8 @@
 5. [Life After phD](https://link.zhihu.com/?target=http%3A//people.csail.mit.edu/fredo/LifeAfterPhD.pdf)
 6. [Advice on Applying to CS PhD](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 7. [Advice from Dr. H.T. Kung, Harvard Professor](http://www.eecs.harvard.edu/htk/phdadvice/)
-8. [phd Guidance from Dr. Eric Gilbert, UMich Professor](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/preview)
+8. [Phd Guidance from Dr. Eric Gilbert, UMich Professor](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/preview)
+9. [Work/life Balance from Matt Might, Harvard Medical Professor](http://matt.might.net/articles/)
 
 ## Paper Writing Advice & Resource
 1. [NTHU Paper Writing Resources Collection](http://language.site.nthu.edu.tw/p/412-1212-15893.php?Lang=zh-tw)
